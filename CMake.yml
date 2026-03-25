@@ -1,3 +1,4 @@
+kind: code
 extensions:
 - keyString: "cmake"
 filenames:
